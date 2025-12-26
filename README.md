@@ -1,4 +1,4 @@
-## Collection of small Go projects built to practice core Go concepts and backend fundamentals.
+## Small Go projects to practice core language concepts and backend fundamentals.
 
 ### web-server:
-<img width="792" height="375" alt="Screenshot 2025-12-26 142024" src="https://github.com/user-attachments/assets/af5180ed-66da-4ac1-a510-453fad88106e" />
+<img width="2627" height="1255" alt="project-1 flowchart" src="https://github.com/user-attachments/assets/2a3dd44c-a2ca-4530-abed-8dd762ded747" />
